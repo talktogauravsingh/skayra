@@ -1,0 +1,32 @@
+/* stylesheet */
+
+/* External font */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body{
+    background-color: black;
+}
+
+.center-div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skayra-name{
+    font-family: 'Press Start 2P', cursive;
+    color: #079992;
+    font-size: 100px;
+}
+
+.skayra-desc{
+    color: #f6b93b;
+    font-family: 'Indie Flower', cursive;
+    float: right;
+}
+
+.skayra-listining{
+    color: red;
+}
