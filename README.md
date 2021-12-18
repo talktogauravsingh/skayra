@@ -2,4 +2,4 @@
 An Imaginary Robot
 
 
-url - https://talktogauravsingh.github.io/skayra/
+URL - https://talktogauravsingh.github.io/skayra/
